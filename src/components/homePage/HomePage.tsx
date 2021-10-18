@@ -58,7 +58,7 @@ const HomePage = (): JSX.Element => {
         </h6>
       </ContextDiv>
       <ContextDiv>
-        <h5>Courses introduction</h5>
+        <h5>Courses introductions</h5>
         <p>Bilingual Mathematics And Chinese Language Learning</p>
         <h6
           onClick={() => {
